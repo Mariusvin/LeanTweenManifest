@@ -1,0 +1,8 @@
+{
+  "name": "com.tutotoons.app.leantween",
+  "version": "0.0.1",
+  "displayName": "LeanTween",
+  "description": "LeanTween module",
+  "dependencies": {
+  }
+}
