@@ -4,14 +4,12 @@
   "displayName": "LeanTween (Mariusvin)",
   "description": "A UPM-compatible distribution of LeanTween",
   "unity": "2019.4",
-  "dependencies": {},
   "keywords": [
     "leantween",
     "animation",
     "tween"
   ],
   "author": {
-    "name": "dentedpixel",
-    "url": "http://dentedpixel.com"
+    "name": "dentedpixel"
   }
 }
