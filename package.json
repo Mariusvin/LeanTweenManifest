@@ -2,10 +2,8 @@
   "name": "com.mariusvin.leantween",
   "version": "2.5.1",
   "displayName": "LeanTween (Mariusvin)",
-  "description": "A UPM-compatible distribution of LeanTween.",
+  "description": "A UPM-compatible distribution of LeanTween",
   "unity": "2019.4",
-  "documentationUrl": "http://dentedpixel.com/LeanTweenDocumentation/classes/LeanTween.html",
-  "licensesUrl": "https://github.com/dentedpixel/LeanTween/blob/master/LICENSE",
   "dependencies": {},
   "keywords": [
     "leantween",
